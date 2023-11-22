@@ -1,4 +1,4 @@
 .pio
-.vscode/
-.logs/
-.build.sh
+.vscode
+./logs
+./build.sh
